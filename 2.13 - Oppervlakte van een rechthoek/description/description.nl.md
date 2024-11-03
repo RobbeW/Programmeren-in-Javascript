@@ -23,5 +23,5 @@ De omtrek van de rechthoek is 42.0 cm en de oppervlakte is 80.0 cm²
 
 {: .callout.callout-info}
 >#### Tip
-> Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
-> Bekijk de voorbeeldzinnen. Om die volzin op het scherm te krijgen zal je goed moeten concateneren. Gebruik dus goed de komma's en plustekens waar nodig. 
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript) om jouw code uit te testen en te **debuggen**; 
+> * Bekijk de voorbeeldzinnen. Om die volzin op het scherm te krijgen zal je goed moeten concateneren. Gebruik dus goed de komma's en plustekens waar nodig. 
