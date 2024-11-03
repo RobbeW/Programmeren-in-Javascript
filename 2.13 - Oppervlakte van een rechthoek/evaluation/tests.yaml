@@ -1,0 +1,4 @@
+- tab: Feedback
+  contexts:
+  - testcases:
+    - stdout: "De omtrek van de rechthoek is 42.0 cm en de oppervlakte is 80.0 cm²"
