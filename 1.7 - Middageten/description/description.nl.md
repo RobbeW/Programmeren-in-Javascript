@@ -15,7 +15,9 @@ var populariteit = ... ;
 ## Uitvoer
 
 ```
-Op 02/05/2024 waren er in de cafetaria balletjes in tomatensaus met puree te vinden. Als dessert kon je een pudding krijgen. De studenten gaven deze maaltijd gemiddeld een 7.8/10.
+Op 02/05/2024 waren er in de cafetaria balletjes in tomatensaus met puree te vinden.
+Als dessert kon je een pudding krijgen.
+De studenten gaven deze maaltijd gemiddeld een 7.8/10.
 ```
 
 
