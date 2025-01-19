@@ -1,4 +1,4 @@
 // Definieer de gok van de speler
-speler = 
+var speler = 
 
 // Bepaal wie er wint
