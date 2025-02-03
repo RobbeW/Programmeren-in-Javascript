@@ -1,5 +1,5 @@
 // Vraag de leeftijd van de gebruiker
-var leeftijd = prompt("Wat is je leeftijd?");
+var leeftijd = 8
 
 // Controleer de leeftijdscategorie
 if (leeftijd < 0 || leeftijd > 122) {
