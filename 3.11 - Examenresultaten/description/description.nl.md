@@ -14,5 +14,5 @@ Om te bepalen of een student slaagt voor een examen, gebruikt de universiteit va
 > * Als de gebruiker een ongeldig cijfer invoert (dus kleiner dan 0 || groter dan 20), print dan "Ongeldig cijfer."
 > * Voer tests uit met verschillende cijfers, zoals 4.5, 6.0, 13.0, 19.0, enzovoort. Zorg ervoor dat de code correct werkt en de juiste berichten weergeeft;
 > * Vergeet niet om te debuggen en eventuele fouten op te lossen.
-> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript;
+> * Maak gebruik van de [Papyros-omgeving](https://papyros.dodona.be/?locale=nl&language=JavaScript)
 > * Dien daarna jouw oplossing in via de Dodona-omgeving.
