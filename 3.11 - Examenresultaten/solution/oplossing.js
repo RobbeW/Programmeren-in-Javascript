@@ -2,7 +2,7 @@
 var resultaat = 8
 
 // Controleer het resultaat
-if (resultaat < 0 || resultaat > 122) {
+if (resultaat < 0 || resultaat > 20) {
     console.log("Ongeldig cijfer.");
 } else if (resultaat < 10) {
     console.log("Helaas, je bent gezakt.");
